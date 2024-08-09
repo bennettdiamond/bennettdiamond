@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bennettdiamond
 - 👀 I’m interested in spacecraft propulsion, fusion energy, and clouds.
-- 🌱 I’m currently learning about aerospace plasmas at the University of Washington, Seattle.
+- 🌱 I’m currently an electric propulsion research engineer in the SPACE Lab at the University of Washington, Seattle.
 - 📫 You can reach me [here!](https://www.linkedin.com/in/bennettlikesrockets/)
 
 <!---
